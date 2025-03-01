@@ -5,6 +5,10 @@ This is an attempt to build a Skype 7 interface to be able to listen to voicemai
 - On any login from the Skype client give a +OK (maybe save username?)
 - Have "pending" messages that would be downloaded voicemails that could be played in the client
 
+# Blogging
+- https://www.unliterate.net/index.php/2022/10/02/listening-to-skype-voicemail-dat-files/
+- https://www.unliterate.net/index.php/2024/04/30/still-trying-to-listen-to-skype-voicemails/
+
 # How to Skype 7
 Firstly I've done the following:
 - Using [Oracle VM VirtualBox](https://www.virtualbox.org/) i've installed Windows XP SP3 in a virtualized environment
