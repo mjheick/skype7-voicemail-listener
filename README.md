@@ -1,5 +1,5 @@
-# skype7server
-This is an attempt to build a Skype 7 Server to be able to listen to voicemails. The proposed steps would be the following
+# skype7-voicemail-listener
+This is an attempt to build a Skype 7 interface to be able to listen to voicemails. The proposed steps would be the following
 - Set up specific hostfiles that will redirect all Skype traffic to a destination machine
 - Set up a destination machine w/ SSL termination
 - On any login from the Skype client give a +OK (maybe save username?)
