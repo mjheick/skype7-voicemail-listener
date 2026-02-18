@@ -1,5 +1,5 @@
-# Skype7Server
-Right now, not currently a server. More like a "R&D" effort into figuring out how to play Skype Voicemails
+# skype7-voicemail-listener
+Figuring out how to play Skype 7 Voicemail .dat files
 
 # Work-In-Progress
 There's a [Google Drive folder](https://drive.google.com/drive/folders/1vh5zAPv2vEIpkowWMmU0EpTPFzl9ja4a?usp=drive_link) where thoughts be gathered.
