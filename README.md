@@ -1,17 +1,27 @@
 # skype7-voicemail-listener
-Figuring out how to play Skype 7 Voicemail .dat files
+A script derived from Claude Sonnet 5.5 that converts Skype 7 Voicemail .dat files to playable wav.
 
-# Work-In-Progress
-There's a [Google Drive folder](https://drive.google.com/drive/folders/1vh5zAPv2vEIpkowWMmU0EpTPFzl9ja4a?usp=drive_link) where thoughts be gathered.
+# Usage
+Clone down the repo
+```
+git@github.com:mjheick/skype7-voicemail-listener.git
+```
 
-# Blogging
-- https://www.unliterate.net/index.php/2022/10/02/listening-to-skype-voicemail-dat-files/
-- https://www.unliterate.net/index.php/2024/04/30/still-trying-to-listen-to-skype-voicemails/
+Execute the program
+```
+python3 dat_to_wav.py file1.dat [file2.dat ...]
+```
 
-# External/Archived Documents
-While searching through out the internet for historical information this folder will be a repository for documents that we have located and a local mirror in case they go away.
+# ffmpeg
+You'll need [ffmpeg](https://ffmpeg.org/) installed (and present in your path) to make the final conversion from g.729 to PCM format.
 
-skype1_4.pdf
-- [local](skype1_4.pdf)
-- [remote](http://www1.cs.columbia.edu/~salman/publications/skype1_4.pdf)
+You can download that from [ffmpeg.org](https://ffmpeg.org/download.html)
+
+# Historical Walk
+- [Listening to Skype Voicemail .dat files](https://www.unliterate.net/index.php/2022/10/02/listening-to-skype-voicemail-dat-files/)
+- [Still trying to listen to Skype Voicemails…](https://www.unliterate.net/index.php/2024/04/30/still-trying-to-listen-to-skype-voicemails/)
+- [Decoding and Listening to Skype Voicemail .dat Files]()
+
+# Thanks
+- Scott Nickell <scott.nickell@gmail.com>
 
