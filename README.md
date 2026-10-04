@@ -20,7 +20,7 @@ You can download that from [ffmpeg.org](https://ffmpeg.org/download.html)
 # Historical Walk
 - [Listening to Skype Voicemail .dat files](https://www.unliterate.net/index.php/2022/10/02/listening-to-skype-voicemail-dat-files/)
 - [Still trying to listen to Skype Voicemails…](https://www.unliterate.net/index.php/2024/04/30/still-trying-to-listen-to-skype-voicemails/)
-- [Decoding and Listening to Skype Voicemail .dat Files]()
+- [Decoding and Listening to Skype Voicemail .dat Files](https://www.unliterate.net/index.php/2026/10/04/decoding-and-listening-to-skype-voicemail-dat-files/)
 
 # Thanks
 - Scott Nickell <scott.nickell@gmail.com>
