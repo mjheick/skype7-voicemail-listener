@@ -23,5 +23,5 @@ You can download that from [ffmpeg.org](https://ffmpeg.org/download.html)
 - [Decoding and Listening to Skype Voicemail .dat Files](https://www.unliterate.net/index.php/2026/10/04/decoding-and-listening-to-skype-voicemail-dat-files/)
 
 # Thanks
-- Scott Nickell <scott.nickell@gmail.com>
+- Scott Nickell
 
